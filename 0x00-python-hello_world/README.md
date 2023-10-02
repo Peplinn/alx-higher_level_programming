@@ -1,0 +1,1 @@
+This project is designed to help beginners get started with Python programming. It includes a series of simple Python scripts that demonstrate the classic "Hello, World" program and cover basic concepts such as variables, data types, and control structures.
