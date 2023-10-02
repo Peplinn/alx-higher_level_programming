@@ -1,0 +1,1 @@
+A repository for introductory higher level programming (Python) projects.
