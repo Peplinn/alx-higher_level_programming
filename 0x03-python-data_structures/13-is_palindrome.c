@@ -48,7 +48,7 @@ int is_palindrome(listint_t **head)
 		fast = fast->next;
 	}
 
-	/* Rereverse the secend part and linke it to the first part */
+	/* Reverse second, link to first */
 	slow = NULL;
 	while (head2 != NULL)
 	{
