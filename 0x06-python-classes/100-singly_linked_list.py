@@ -72,7 +72,7 @@ class SinglyLinkedList:
     """
 
     def __init__(self):
-        """ Initialise an empty Sinlgy Linked List """
+        """ Initialise an empty Singly Linked List """
         self.head = None
 
     def is_empty(self):
@@ -106,7 +106,7 @@ class SinglyLinkedList:
             current.next_node = new_node
 
     def __str__(self):
-        """ Return a string representation of the singli linked lits """
+        """ Return a string representation of the singly linked lists """
         elements = []
         current = self.head
         while current is not None:
